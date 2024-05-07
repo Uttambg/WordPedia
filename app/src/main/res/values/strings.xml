@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WordPedia</string>
+    <string name="can_t_get_result" />
+    <string name="definition">Definition</string>
+    <string name="example">Example</string>
+    <string name="search_a_word" />
+</resources>
